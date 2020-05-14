@@ -21,7 +21,7 @@ Following are the set of commands that you can currently run using the taskcontr
 
     - taskcontrol [--command] [--options]
 
-### install 
+### Command --install 
 
 
     - install --stack
@@ -33,13 +33,13 @@ Following are the set of commands that you can currently run using the taskcontr
     - install --cli-plugin
 
 
-### init 
+### Command --init 
 
 
-### config
+### Command --config
 
 
-### create
+### Command --create
 
 
     - create --project
@@ -51,7 +51,7 @@ Following are the set of commands that you can currently run using the taskcontr
     - create --template
 
 
-### auth
+### Command --auth
 
 
     - auth --setup
@@ -77,3 +77,4 @@ Following are the set of commands that you can currently run using the taskcontr
     - auth --updatepermission
 
     - auth --deletepermission
+
