@@ -13,15 +13,36 @@ Generic CLI tool for taskcontrols library performing most common taskcontrols ac
 * If needed provide executable rights in your system as per your OS and Organization needs
 
 
-# Commands
+# COMMANDS
 
 
-#### Install 
+### install 
 
 
-#### Setup 
+#### install --plugin
 
 
-#### Config
+#### install --stack
+
+
+### init 
+
+
+### config
+
+
+### create
+
+
+#### create --project
+
+
+#### create --plugin
+
+
+#### create --template
+
+
+### auth
 
 
