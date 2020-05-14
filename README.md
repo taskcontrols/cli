@@ -46,26 +46,26 @@ Generic CLI tool for taskcontrols library performing most common taskcontrols ac
 ### auth
 
 
-  - auth --setup
+    - auth --setup
 
-  - auth --createsuperuser
+    - auth --createsuperuser
 
-  - auth --createuser
+    - auth --createuser
 
-  - auth --updateuser
+    - auth --updateuser
 
-  - auth --updatepassword
+    - auth --updatepassword
 
-  - auth --deleteuser
+    - auth --deleteuser
 
-  - auth --createrole
+    - auth --createrole
 
-  - auth --updaterole
+    - auth --updaterole
 
-  - auth --deleterole
+    - auth --deleterole
 
-  - auth --createpermission
+    - auth --createpermission
 
-  - auth --updatepermission
+    - auth --updatepermission
 
-  - auth --deletepermission
+    - auth --deletepermission
