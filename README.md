@@ -7,6 +7,12 @@
 Generic CLI tool for taskcontrols library performing most common taskcontrols action
 
 
+# INSTALLATION
+
+* Download the executable from
+* If needed provide executable rights in your system as per your OS and Organization needs
+
+
 # Commands
 
 
