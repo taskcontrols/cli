@@ -17,9 +17,13 @@ Generic CLI tool for taskcontrols library performing most common taskcontrols ac
 
 Following are the set of commands that you can currently run using the taskcontrol-cli
 
+
+
 ### EXECUTABLE COMMAND
 
     - taskcontrol [--command] [--options]
+
+
 
 #### Command:
 #####        --install 
@@ -38,8 +42,10 @@ Following are the set of commands that you can currently run using the taskcontr
 #####        --init 
 
 
+
 #### Command:
 #####        --config
+
 
 
 #### Command:
@@ -53,6 +59,7 @@ Following are the set of commands that you can currently run using the taskcontr
 
 
     - create --template
+
 
 
 #### Command:
