@@ -1,2 +1,9 @@
+* Project Size should not be more than 500KB (Not happening with Python)
 * Consider moving to golang
+* Create:
+    - installation
+    - configuration file
+    - authentication setup
+    - project structure and init
+    - templates/plugins structure
 
