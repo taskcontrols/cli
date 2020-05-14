@@ -24,10 +24,13 @@ Following are the set of commands that you can currently run using the taskcontr
 ### install 
 
 
+    - install --stack
+    
+    
     - install --plugin
 
 
-    - install --stack
+    - install --cli-plugin
 
 
 ### init 
