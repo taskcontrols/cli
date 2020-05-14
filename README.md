@@ -19,10 +19,10 @@ Generic CLI tool for taskcontrols library performing most common taskcontrols ac
 ### install 
 
 
-#### install --plugin
+    #### install --plugin
 
 
-#### install --stack
+    #### install --stack
 
 
 ### init 
@@ -34,13 +34,13 @@ Generic CLI tool for taskcontrols library performing most common taskcontrols ac
 ### create
 
 
-#### create --project
+    #### create --project
 
 
-#### create --plugin
+    #### create --plugin
 
 
-#### create --template
+    #### create --template
 
 
 ### auth
