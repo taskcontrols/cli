@@ -1,0 +1,2 @@
+taskcontrol=1.2.6
+pyinstaller=3.6
