@@ -21,7 +21,7 @@ Following are the set of commands that you can currently run using the taskcontr
 
 ### EXECUTABLE COMMAND
 
-    - taskcontrol [--command] [--options]
+    - tc [--command] [--options]
 
 
 
